@@ -1,3 +1,3 @@
 # Hello-World
 Just another repository
-My name is STeven.
+My name is Steven.
